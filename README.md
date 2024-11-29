@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/790278db-0dd5-4fb0-b2fb-9a1ef56432a7)**What is JUnit?**
+**What is JUnit?**
   - JUnit is a testing framework for Java.<br />
   - It is used to write and run repeatable tests.<br />
   - Junit helps verify that individual code units work as expected.<br />
