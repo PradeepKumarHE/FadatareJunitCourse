@@ -9,7 +9,12 @@
   - JUnit can integrated with IDEs and build tools(Maven, Gradle) for easy execution.<br />
 
 **Junit Basics**
-
+- The class we want to test is called a Class under test.
+- The method we want to test is called a Method under test.
+- A test class in JUnit is a regular Java class that contains one or more test methods. These test methods are annotated with @Test and contain the 
+  logic to test a specific code.
+- A test method is a method within a test class that is annotated with @Test. This method contains assertions that check the expected outcomes of the 
+  code being tested
 
 
 
