@@ -20,6 +20,10 @@
 - The test runner is responsible for executing the test methods in a test class and reporting the results. In Junit,the test runner is typically 
   provided by an IDE or build tool, such as Eclipse, IntelliJ IDEA, Maven or Gradle.
 
-![image](https://github.com/user-attachments/assets/6a51ef0d-17e2-48bf-ba0c-a714c5c732cb)
+**Check the below sample example**
+For the method you want to write a test case select the method press ALT+INS or right click on the method then select generate the dialogue box select the method
+
+![image](https://github.com/user-attachments/assets/8416a365-0a70-40df-97eb-5955d82f4597)
+
 
 
