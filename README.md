@@ -17,7 +17,7 @@
   code being tested
 - Assertions are used to check whether the code under test behaves as expected. Junit provides several assertion methods, such as 
   assertEquals,assertFalse,assertTrue,assertNotNull and assertThrows.
-  The test runner is responsible for executing the test methods in a test class and reporting the results. In Junit,the test runner is typically 
+- The test runner is responsible for executing the test methods in a test class and reporting the results. In Junit,the test runner is typically 
   provided by an IDE or build tool, such as Eclipse, IntelliJ IDEA, Maven or Gradle.
 
 
